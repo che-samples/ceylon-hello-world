@@ -1,0 +1,15 @@
+This is a Ceylon project sample for a simple "Hello World" 
+command-line application that can be compiled and executed 
+on the 3 supported backends: JVM, Javascript on NodeJS, and Dart.
+
+The project can be compiled and run for any of those backends with the
+standard `compile...` / `run...` commands provided by the Ceylon stack.
+
+The `clean modules` allows cleaning the `modules` directory that 
+contains the compiles modules for all the backends.
+
+Report any issue to the GitHub project repository:
+
+https://github.com/ceylon/ceylon/issues/new
+
+www.ceylon-lang.org
